@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">فتاوی</string>
+    <string-array name="labels_array">
+        <item>نتایج:30</item>
+        <item>نتایج:60</item>
+        <item>نتایج:120</item>
+        <item>نتایج:240</item>
+    </string-array>
+</resources>
