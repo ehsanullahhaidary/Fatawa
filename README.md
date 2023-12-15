@@ -9,13 +9,17 @@
     - You can share Question/Answer , change font size and copy to clipboard
 
 #Splash Screen
-![SplashScreen](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/d2371854-a0de-47fe-a84c-2b2ef1c5d060)
+![SplashScreen](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/c5571b95-cfb9-4c99-a3ab-128daafb24aa)
+
 
 #Main (Question/Answer) Activity (Screen)
-![MainActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/0b9a2513-bdd1-4c58-ab7d-9fa323a81ed7)
+![MainActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/9fac8314-db03-4409-b182-0e089e66c059)
+
 
 #Answer Activity (Screen)
-![AnswersActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/9d6cc1a5-2175-43c1-8324-8eebddcdf469)
+![AnswersActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/048e3050-6e15-4379-8439-f2e0423e33f9)
+
 
 #Bookmark Activity (Screen)
-![BookmarkActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/d5ac8949-7071-4969-8d99-aa7002d5383b)
+![BookmarkActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/1a01b085-bd07-4e34-aeed-dcc79983389e)
+
