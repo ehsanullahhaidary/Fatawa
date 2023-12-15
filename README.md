@@ -2,7 +2,7 @@
 
 
 ## Info
-#this App is a Question/Answer app with a Sqlite database with more than 11000 rows of data
+# this App is a Question/Answer app with a Sqlite database with more than 11000 rows of data
 
     - You can search your question and find your answer in question
     - You also can search a portion of text in answers to find the match
