@@ -1,5 +1,7 @@
 ## Fatawa
 
+
+## Info
 #this App is a Question/Answer app with a Sqlite database with more than 11000 rows of data
     - You can search your question and find your answer in question
     - You also can search a portion of text in answers to find the match
@@ -33,3 +35,8 @@
 
 ![BookmarkActivity](https://github.com/ehsanullahhaidary/Fatawa/assets/74910020/1a01b085-bd07-4e34-aeed-dcc79983389e)
 
+
+## Installation 
+    - download zip
+    - open with android studio
+    - sync the project and run on your device
